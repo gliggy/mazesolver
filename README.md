@@ -1,0 +1,2 @@
+# mazesolver
+solves mazes
